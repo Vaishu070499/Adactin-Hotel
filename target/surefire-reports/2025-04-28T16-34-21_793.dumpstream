@@ -1,0 +1,5 @@
+# Created at 2025-04-28T16:34:21.991
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Guvi\Workspace\AdactinHotel\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
